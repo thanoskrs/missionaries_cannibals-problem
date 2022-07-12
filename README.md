@@ -1,3 +1,4 @@
+# Missionaries and Cannibals problem
 Missionaries and Cannibals problem using A* algorithm with closet set.
 
 In the missionaries and cannibals problem, three missionaries and three cannibals must cross a 
