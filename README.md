@@ -1,4 +1,4 @@
-# Missionaries and Cannibals problem
+*# Missionaries and Cannibals problem
 Missionaries and Cannibals problem using A* algorithm with closet set.
 
 In the missionaries and cannibals problem, three missionaries and three cannibals must cross a 
@@ -21,6 +21,6 @@ K crossings, if such a solution exists.
 More about the problem: https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem
 
 When calling the program, the following parameters should be specified, separated by a space:
-	-> N: number  of cannibals /  number of missionaries
-	-> Μ: maximum capacity of boat
-	-> Κ: maximum river crossings
+* N: number  of cannibals /  number of missionaries
+* Μ: maximum capacity of boat
+* Κ: maximum river crossings
